@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+C:\yura\АП\lab_9\lab_9_2_1\UnitTest1\UnitTest1.cpp(50,26): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+     Создается библиотека C:\yura\АП\lab_9\lab_9_2_1\Debug\UnitTest1.lib и объект C:\yura\АП\lab_9\lab_9_2_1\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\yura\АП\lab_9\lab_9_2_1\Debug\UnitTest1.dll
